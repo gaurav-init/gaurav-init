@@ -305,20 +305,14 @@ Verifox.ai
 <img src="https://img.shields.io/badge/5_Eng-Team_Led-ec4899?style=for-the-badge&labelColor=0d1117&logo=teamspeak&logoColor=ec4899" />&nbsp;
 <img src="https://img.shields.io/badge/4_Products-In_Production-06b6d4?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=06b6d4" />
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav-init&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="80%" />
-
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=gaurav-init&style=for-the-badge&color=58a6ff&label=Profile+Views" />
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" width="70%" />
-
-<br><br>
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=150&section=footer&reversal=true" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=100&section=footer&reversal=true" />
