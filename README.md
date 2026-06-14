@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1a3a5c,100:58a6ff&height=250&section=header&text=GAURAV%20SINGH&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Learning%20Go%20%26%20Rust&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1a3a5c,100:58a6ff&height=250&section=header&text=GAURAV%20SINGH&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Learning%20Go%20%26%20Rust&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn&v=2" />
 
 <br>
 
@@ -315,4 +315,4 @@ Verifox.ai
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a5c,70:161b22,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a5c,70:161b22,100:0d1117&height=100&section=footer&v=2" />
