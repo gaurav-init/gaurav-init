@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gaurav%20Singh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Project%20Lead%20%C2%B7%20Full-Stack%20Developer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gaurav%20Singh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Building%20with%20Go&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+production+systems+at+scale+%F0%9F%9A%80;3+AI+products+shipped+%E2%80%A2+200M%2B+records+processed" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=1.5+yrs+%E2%80%A2+3+AI+products+shipped+%E2%80%A2+200M%2B+records+%F0%9F%9A%80;Currently+diving+deep+into+Go+%26+systems+programming" />
 
 </div>
 
@@ -29,13 +29,11 @@
 
 ### About me
 
-I'm a final-year CS student at **UIET MDU Rohtak** who doesn't just write code — I **lead teams**, **architect systems**, and **ship products** that run in production.
+Software engineer with **1.5 years** of shipping production systems — and I've packed more into that time than most. Led a **5-engineer team** at Verifox.ai, processed **200M+ records** at Prospetto.ai, and built AI pipelines generating **print-ready artwork** at Vlon.ai.
 
-While most students build to-do apps, I led a **5-engineer team** at Verifox.ai, processed **200M+ records** at Prospetto.ai, and built AI pipelines that generate **print-ready artwork** at Vlon.ai.
+I don't just write code — I **architect systems**, **lead teams**, and **deliver products** that handle real-world scale. Recently started working with **Go** for backend & systems programming.
 
-**Currently:** Open to full-time opportunities & contract work
-
-**Location:** Gurgaon, India
+**CS graduate** from UIET MDU Rohtak. Based in **Gurgaon, India**.
 
 <br clear="both">
 
@@ -103,20 +101,36 @@ Print-ready textile artwork generator. Built Magic Fill for colour & motif edits
 </td>
 <td width="50%">
 
-<h3 align="center">More Projects</h3>
-<p align="center"><strong>Personal & Open Source</strong></p>
+<h3 align="center"><a href="https://schoopla.com.au">Schoopla.com.au</a></h3>
+<p align="center"><strong>Secure Messaging Platform</strong></p>
 
-| Project | Description |
-|:--------|:-----------|
-| [**Intervue AI**](https://github.com/gaurav-init/Intervue-ai) | AI mock interview platform |
-| [**Sutikala**](https://github.com/gaurav-init/sutikala) | E-commerce for artisans |
-| [**Gloweza**](https://github.com/gaurav-init/gloweza) | Shopify beauty store |
-| [**Bug Bucket**](https://github.com/gaurav-init) | Issue tracking tool |
-| [**ConfessIt**](https://github.com/gaurav-init) | Anonymous confessions |
+<p align="center">
+<img src="https://img.shields.io/badge/Encryption-End--to--End-10b981?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+End-to-end encrypted messaging platform built from scratch. Full-stack architecture with secure real-time communication.
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="30" />
+</p>
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More shipped work →</b></summary>
+<br>
+
+| Project | Description | Stack |
+|:--------|:-----------|:------|
+| [**Intervue AI**](https://github.com/gaurav-init/Intervue-ai) | AI mock interview platform with real-time feedback | Next.js, AI |
+| [**Sutikala**](https://github.com/gaurav-init/sutikala) | E-commerce platform for artisan products | TypeScript, Next.js |
+| [**Gloweza**](https://github.com/gaurav-init/gloweza) | Shopify-based beauty & skincare brand store | Liquid, Shopify |
+| [**Bug Bucket**](https://github.com/gaurav-init) | Issue tracking and bug management tool | React, Node.js |
+| [**ConfessIt**](https://github.com/gaurav-init) | Anonymous confession platform | Next.js, MongoDB |
+
+</details>
 
 ---
 
@@ -132,7 +146,7 @@ Print-ready textile artwork generator. Built Magic Fill for colour & motif edits
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,rust,python,cpp&perline=3&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,go,rust,python,cpp&perline=3&theme=dark" />
 
 </td>
 <td valign="top" width="25%">
@@ -165,7 +179,7 @@ Print-ready textile artwork generator. Built Magic Fill for colour & motif edits
 
 | Category | Technologies |
 |:---------|:------------|
-| **Languages** | TypeScript, JavaScript, Rust, Python, C++, C, Java, PHP, Bash |
+| **Languages** | TypeScript, JavaScript, Go, Rust, Python, C++, C, Java, PHP, Bash |
 | **Frontend** | React, Next.js, Tailwind CSS, GSAP, Framer Motion, Bootstrap, HTML5, CSS3 |
 | **Backend** | Node.js, Hono, Express, FastAPI, Django, REST, GraphQL |
 | **Databases** | PostgreSQL, MongoDB, Redis, Qdrant, Firebase, MySQL, SQLite, DynamoDB |
@@ -274,20 +288,6 @@ Verifox.ai
 <div align="center">
 
 <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-init&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav-init/gaurav-init/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav-init/gaurav-init/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gaurav-init/gaurav-init/output/github-snake-dark.svg" />
-</picture>
 
 </div>
 
