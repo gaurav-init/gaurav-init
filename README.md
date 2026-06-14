@@ -1,23 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gaurav%20Singh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Building%20with%20Go&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-
 <div align="center">
 
-<a href="https://gauravsingh.wiki">
-<img src="https://img.shields.io/badge/Portfolio-gauravsingh.wiki-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/gaurav-singh-3593aa25b/">
-<img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:gauravsingh8xm@gmail.com">
-<img src="https://img.shields.io/badge/Email-gauravsingh8xm-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/gaurav_me1">
-<img src="https://img.shields.io/badge/Telegram-@gaurav__me1-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-</a>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=GAURAV%20SINGH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Building%20with%20Go&descSize=16&descColor=8b949e&descAlignY=58&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
+
+<br>
+
+<!-- SOCIAL LINKS -->
+<a href="https://gauravsingh.wiki"><img src="https://img.shields.io/badge/%20-Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/gaurav-singh-3593aa25b/"><img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="mailto:gauravsingh8xm@gmail.com"><img src="https://img.shields.io/badge/%20-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>&nbsp;
+<a href="https://t.me/gaurav_me1"><img src="https://img.shields.io/badge/%20-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=1.5+yrs+%E2%80%A2+3+AI+products+shipped+%E2%80%A2+200M%2B+records+%F0%9F%9A%80;Currently+diving+deep+into+Go+%26+systems+programming" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+1.5+years+%E2%86%92+3+AI+products+shipped+%E2%86%92+200M%2B+records;%F0%9F%9A%80+Currently+building+with+Go+%26+systems+programming;%E2%9A%A1+Led+5-engineer+team+%E2%86%92+98.7%25+accuracy+%E2%86%92+sub-50ms+API" />
 
 </div>
 
@@ -108,7 +104,7 @@ Print-ready textile artwork generator. Built Magic Fill for colour & motif edits
 <img src="https://img.shields.io/badge/Encryption-End--to--End-10b981?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-End-to-end encrypted messaging platform built from scratch. Full-stack architecture with secure real-time communication.
+All-in-one education platform for Australian schools. Built E2E encrypted messaging, attendance tracking, student performance dashboards, and admin control centre.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb&theme=dark" height="30" />
@@ -295,32 +291,34 @@ Verifox.ai
 
 <!-- IMPACT METRICS -->
 
+<h2 align="center">Impact at a Glance</h2>
+
 <div align="center">
 
-<br>
-
-```
-          ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-          │  98.7%       │  │  200M+       │  │  600+        │
-          │  Accuracy    │  │  Records     │  │  Sources     │
-          │  Verifox.ai  │  │  Prospetto   │  │  Crawled     │
-          └──────────────┘  └──────────────┘  └──────────────┘
-          ┌──────────────┐  ┌──────────────┐  ┌──────────────┐
-          │  <50ms       │  │  5-Engineer  │  │  3 Products  │
-          │  API Speed   │  │  Team Led    │  │  In Prod     │
-          └──────────────┘  └──────────────┘  └──────────────┘
-```
+<img src="https://img.shields.io/badge/98.7%25-Verification_Accuracy-22c55e?style=for-the-badge&labelColor=0d1117&logo=checkmarx&logoColor=22c55e" />&nbsp;
+<img src="https://img.shields.io/badge/200M+-Records_Processed-a855f7?style=for-the-badge&labelColor=0d1117&logo=databricks&logoColor=a855f7" />&nbsp;
+<img src="https://img.shields.io/badge/600+-Data_Sources-3b82f6?style=for-the-badge&labelColor=0d1117&logo=apachespark&logoColor=3b82f6" />
 
 <br>
+
+<img src="https://img.shields.io/badge/<50ms-API_Response-f59e0b?style=for-the-badge&labelColor=0d1117&logo=lightning&logoColor=f59e0b" />&nbsp;
+<img src="https://img.shields.io/badge/5_Eng-Team_Led-ec4899?style=for-the-badge&labelColor=0d1117&logo=teamspeak&logoColor=ec4899" />&nbsp;
+<img src="https://img.shields.io/badge/4_Products-In_Production-06b6d4?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=06b6d4" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav-init&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="80%" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=gaurav-init&style=for-the-badge&color=58a6ff&label=Profile+Views" />
 
 <br><br>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson" width="70%" />
 
-<br>
+<br><br>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=150&section=footer&reversal=true" />
