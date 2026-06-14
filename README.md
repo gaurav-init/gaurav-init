@@ -1,6 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gaurav%20Singh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Learning%20Go%20%26%20Rust&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-
 <div align="center">
+
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=GAURAV%20SINGH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Learning%20Go%20and%20Rust&descSize=16&descColor=8b949e&descAlignY=58&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
 
 <a href="https://gauravsingh.wiki"><img src="https://img.shields.io/badge/Portfolio-gauravsingh.wiki-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/gaurav-singh-3593aa25b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
@@ -311,4 +312,4 @@ Verifox.ai
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a5c,70:161b22,100:0d1117&height=100&section=footer" />
