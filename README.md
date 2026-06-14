@@ -1,19 +1,15 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gaurav%20Singh&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Learning%20Go%20%26%20Rust&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:1a3a5c,100:58a6ff&height=250&section=header&text=GAURAV%20SINGH&fontSize=75&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Learning%20Go%20%26%20Rust&descSize=16&descColor=c9d1d9&descAlignY=55&animation=fadeIn&v=2" />
-
-<br>
-
-<!-- SOCIAL LINKS -->
-<a href="https://gauravsingh.wiki"><img src="https://img.shields.io/badge/%20-Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/gaurav-singh-3593aa25b/"><img src="https://img.shields.io/badge/%20-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="mailto:gauravsingh8xm@gmail.com"><img src="https://img.shields.io/badge/%20-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>&nbsp;
-<a href="https://t.me/gaurav_me1"><img src="https://img.shields.io/badge/%20-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://gauravsingh.wiki"><img src="https://img.shields.io/badge/Portfolio-gauravsingh.wiki-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://www.linkedin.com/in/gaurav-singh-3593aa25b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:gauravsingh8xm@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://t.me/gaurav_me1"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+1.5+years+%E2%86%92+3+AI+products+shipped+%E2%86%92+200M%2B+records;%F0%9F%9A%80+Currently+learning+Go+%26+Rust+for+systems+programming;%E2%9A%A1+Led+5-engineer+team+%E2%86%92+98.7%25+accuracy+%E2%86%92+sub-50ms+API" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+1.5+years+%E2%86%92+4+products+shipped+%E2%86%92+200M%2B+records;%F0%9F%9A%80+Currently+learning+Go+%26+Rust+for+systems+programming;%E2%9A%A1+Led+5-engineer+team+%E2%86%92+98.7%25+accuracy+%E2%86%92+sub-50ms+API" />
 
 </div>
 
@@ -315,4 +311,4 @@ Verifox.ai
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,30:1a3a5c,70:161b22,100:0d1117&height=100&section=footer&v=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" />
