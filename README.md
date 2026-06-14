@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=GAURAV%20SINGH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Building%20with%20Go&descSize=16&descColor=8b949e&descAlignY=58&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1a1b27,50:58a6ff,100:1a1b27&height=300&section=header&text=GAURAV%20SINGH&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%94%82%20Full-Stack%20Developer%20%E2%94%82%20Learning%20Go%20%26%20Rust&descSize=16&descColor=8b949e&descAlignY=58&animation=twinkling&stroke=58a6ff&strokeWidth=1" />
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+1.5+years+%E2%86%92+3+AI+products+shipped+%E2%86%92+200M%2B+records;%F0%9F%9A%80+Currently+building+with+Go+%26+systems+programming;%E2%9A%A1+Led+5-engineer+team+%E2%86%92+98.7%25+accuracy+%E2%86%92+sub-50ms+API" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+1.5+years+%E2%86%92+3+AI+products+shipped+%E2%86%92+200M%2B+records;%F0%9F%9A%80+Currently+learning+Go+%26+Rust+for+systems+programming;%E2%9A%A1+Led+5-engineer+team+%E2%86%92+98.7%25+accuracy+%E2%86%92+sub-50ms+API" />
 
 </div>
 
@@ -27,7 +27,7 @@
 
 Software engineer with **1.5 years** of shipping production systems — and I've packed more into that time than most. Led a **5-engineer team** at Verifox.ai, processed **200M+ records** at Prospetto.ai, and built AI pipelines generating **print-ready artwork** at Vlon.ai.
 
-I don't just write code — I **architect systems**, **lead teams**, and **deliver products** that handle real-world scale. Recently started working with **Go** for backend & systems programming.
+I don't just write code — I **architect systems**, **lead teams**, and **deliver products** that handle real-world scale. Currently learning **Go** and **Rust** to go deeper into systems programming.
 
 **CS graduate** from UIET MDU Rohtak. Based in **Gurgaon, India**.
 
