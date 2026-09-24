@@ -127,6 +127,59 @@ All-in-one education platform for Australian schools. Built E2E encrypted messag
 
 ---
 
+<!-- OPEN SOURCE CONTRIBUTIONS -->
+
+<h2>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22">&nbsp; Open Source Contributions
+</h2>
+
+Production code merged into libraries other developers ship with.
+
+<table>
+<tr>
+<td>
+
+### <a href="https://github.com/better-auth/better-auth/pull/10190">better-auth/better-auth&nbsp;#10190</a> &nbsp;<img src="https://img.shields.io/badge/MERGED-22c55e?style=flat-square&labelColor=0d1117" />&nbsp;<img src="https://img.shields.io/badge/Vercel--Adopted-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=0d1117" />
+
+**fix(organization): pass endpoint context to organization delete hooks**
+
+Vercel just adopted Better Auth — the auth stack now behind a massive chunk of the web. In the organization plugin, the `beforeDeleteOrganization` and `afterDeleteOrganization` hooks silently dropped their `ctx` argument. Every user reading `ctx` got `undefined`. No error. No warning. Just a broken pattern the docs told you to write.
+
+Fixed the type signatures, patched the two call sites in `routes/crud-org.ts`, forwarded `ctx` through the `@better-auth/stripe` wrapper so orgs + stripe users would get the fix too, corrected the docs example, and added a regression test.
+
+**Result:** 102 organization tests pass. 173 stripe tests pass. Types clean. Ships to every Vercel app using Better Auth's organization delete hooks.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### <a href="https://github.com/shashiKundur1/Brolly/pull/30">Brolly&nbsp;#30</a> · <a href="https://github.com/shashiKundur1/Brolly/pull/31">#31</a> &nbsp;<img src="https://img.shields.io/badge/MERGED-22c55e?style=flat-square&labelColor=0d1117" />
+
+**Design-pattern fixes in an LLM insurance proxy**
+
+Brolly routes LLM calls through Mesh API with cost-cascade routing and mid-session failover.
+
+- **#30** — Shared-mutable-state bug: `DEFAULT_PRICE` returned by reference, so any caller mutating it poisoned every subsequent request. Fixed with defensive copy per call.
+- **#31** — Hardened the usage summarizer against events with invalid timestamps. Skip instead of crash. Defensive-filter at the boundary.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### <a href="https://github.com/aeon-toolkit/aeon/pull/3536">aeon-toolkit/aeon&nbsp;#3536</a> &nbsp;<img src="https://img.shields.io/badge/MERGED-22c55e?style=flat-square&labelColor=0d1117" />
+
+**[DOC] Fix pad_length / truncated_length naming and test docstring in unequal_length**
+
+Naming + docstring fix in the `unequal_length` utility of a widely-used time-series ML library. Small touch, but the kind of thing that unblocks the next dev reading the source.
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- TECH STACK -->
 
 <h2>
